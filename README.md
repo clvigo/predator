@@ -15,3 +15,9 @@ Predator coin v1.1
 <p>Maturity: 35</p>
 <p>Port: 8710</p>
 <p>rpc Port: 8730</p>
+
+<p>Website: http://predatorcoin.online/</p>
+<p>Github: https://github.com/predatorcrypto</p>
+<p>Explorer: http://explorer.predatorcoin.online/</p>
+<p>Twitter: https://twitter.com/PredatorCoin</p>
+<p>Bitcointalks: https://bitcointalk.org/index.php?topic=5078332</p>
